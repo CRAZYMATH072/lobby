@@ -1,5 +1,5 @@
 {
-	"ip":"game1.falixserver.net",
-	"port": "42362",
+	"ip":"game1.falixserver.net:42362",
+	"port": "",
 	"name": "MODERATOR"
 }
